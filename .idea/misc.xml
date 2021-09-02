@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../.gradle/caches/transforms-3/eb485802b55459ae9c8e734b1673d9a7/transformed/biometric-1.2.0-alpha03/res/layout-v19/fingerprint_dialog_layout.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/activity_finger_print.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1703125" />
+        <entry key="app/src/main/res/layout/first_widget.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_widget.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/main_widget.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/new_app_widget.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

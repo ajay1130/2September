@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layoutDescription="@xml/activity_main_scene"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/image_motionlayout"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/main_image_height"
+        android:contentDescription="@string/image_contentdesc"
+        android:scaleType="fitXY"
+        android:src="@drawable/nature4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/text_title"
+        style="@style/MaterialAlertDialog.MaterialComponents.Title.Text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_title_margin"
+        android:padding="@dimen/text_title_padding"
+        android:text="@string/text_title"
+        android:textSize="@dimen/text_title_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_motionlayout" />
+
+    <ScrollView
+        android:id="@+id/scroll_motionlayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="2dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_title">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/textdata_margin"
+            android:padding="@dimen/textdata_padding"
+            android:text="@string/textdata_text"
+            android:textSize="@dimen/textdata_size" />
+    </ScrollView>
+
+
+</androidx.constraintlayout.motion.widget.MotionLayout>

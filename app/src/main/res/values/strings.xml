@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">2September</string>
+    <string name="image_contentdesc">Image</string>
+    <string name="text_title">Motion Layout</string>
+    <string name="textdata_text">
+Terms &amp; Conditions
+Please read the following terms and conditions carefully as it sets out the terms of a legally binding agreement between you (the reader) and Business Standard Private Limited.
+
+1) Introduction
+This following sets out the terms and conditions on which you may use the content on
+business-standard.com website, business-standard.com\'s mobile browser site, Business Standard instore Applications and other digital publishing services (www.smartinvestor.in, www.bshindi.com and www.bsmotoring,com) owned by Business Standard Private Limited, all the services herein will be referred to as Business Standard Content Services.
+
+        2) Registration Access and Use
+We welcome users to register on our digital platforms. We offer the below mentioned registration services which may be subject to change in the future. All changes will be appended in the terms and conditions page and communicated to existing users by email.
+
+Registration services are offered for individual subscribers only. If multiple individuals propose to access the same account or for corporate accounts kindly contact or write in to us. Subscription rates will vary for multiple same time access.
+
+The nature and volume of Business Standard content services you consume on the digital platforms will vary according to the type of registration you choose, on the geography you reside or the offer you subscribe to.
+
+a) Free Registration
+
+b) Premium Registration
+
+c) Special Offers
+
+d) Combo registrations with partners
+
+The details of the services and access offered for each account have been listed on
+www.business-standard.com/subscription-cart/product
+
+We may in exceptional circumstances cease to provide subscription services. We will give you at least 7 days notice of this, if possible. If we do so, then we will have no further obligation to you.
+        3) Privacy Policy and Registration
+All information received by us from your registration on business-standard.com or other digital products of Business Standard will be used by Business Standard in accordance with our Privacy Policy. Kindly read the below mentioned details.
+
+On registration, we expect you to provide Business Standard with an accurate and complete information of the compulsory fields. We also expect you to keep the information secure, specifically access passwords and payment information. Kindly update the information periodically to keep your account relevant. Business Standard will rely on any information you provide to us.
+
+
+    </string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="button_fingerprint">FingerPrint Activity</string>
+    <string name="motionlayout_activity">Motion Layout Activity</string>
+    <string name="fingerprint_activity">FingerPrint Activity</string>
+    <string name="button_authenticatebyfingerprint">Authenticate with FingerPrint</string>
+    <string name="biometric_succeeded_msg">Authentication succeeded!</string>
+    <string name="biometric_failed_msg">Authentication failed</string>
+    <string name="biometric_title">Biometric login for my app</string>
+    <string name="biometric_subtitle">Log in using your biometric credential</string>
+    <string name="biometric_negativebutton_text">Use account password</string>
+    <string name="FINGERPRINT_TAG">MY_APP_TAG</string>
+    <string name="biometric_available_text">App can authenticate using biometrics.</string>
+    <string name="biometric_unavailable_text">No biometric features available on this device.</string>
+    <string name="biometric_error_text">Biometric features are currently unavailable.</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="open_browser">Open Task</string>
+    <string name="text_data">Infosys share price 1686</string>
+</resources>
